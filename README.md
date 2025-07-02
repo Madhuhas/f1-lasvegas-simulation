@@ -20,11 +20,6 @@ This project combines racing passion with data analytics. Using **EA Sports F1 2
 - **Tire Compounds Used**  
   Visualizes stint strategy: softs, mediums, tire wear impacts.
 
-<div align="center">
-  <img src="images/lap_times.png" width="400"/>
-  <img src="images/tire_strategies.png" width="400"/>
-</div>
-
 ## 🔍 Key Insights
 
 - Sainz gained +3 positions through early pit strategy on mediums
